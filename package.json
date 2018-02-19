@@ -1,0 +1,14 @@
+{
+  "name": "aamirbhaikachain",
+  "version": "1.0.0",
+  "description": "BlockChain implemented in javascript",
+  "main": "Block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Aamir Khan",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
